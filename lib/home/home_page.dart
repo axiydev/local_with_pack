@@ -34,7 +34,10 @@ class _HomePageState extends State<HomePage> {
                       child: ScaleTransition(scale: animation, child: child)),
                 ),
                 child: Text(
-                  tr('uncle'),
+                  tr('inson.ismFamiliya'),
+                  // plural('money', 1100000000,
+                  //     format: NumberFormat.compact(
+                  //         locale: context.locale.toString())),
                   key: ValueKey<String>(tr('uncle')),
                   textAlign: TextAlign.center,
                   style: Theme.of(context).textTheme.displayMedium,

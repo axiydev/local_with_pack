@@ -1,3 +1,15 @@
 {
-    "uncle":"Uncle"
+    "uncle":"Uncle",
+    "salom":"Hi {} {familiya}",
+    "gender":{
+        "male":"Hi Man {} Whats up",
+        "female":"Hello girl {} Whats up"
+    },
+
+    "money":"You have {} dollars",
+    "inson":{
+        "ism":"Sarvarjon",
+        "familiya":"Rustamov",
+        "ismFamiliya":"@:inson.ism @:inson.familiya are you OK?"
+    }
 }

@@ -1,3 +1,16 @@
 {
-    "uncle":"Dunyo sen tog`angmas"
+    "uncle":"Dunyo sen tog`angmas",
+    "salom":"Assalomu Alekum {} {familiya}",
+    "gender":{
+        "male":"Salom Oshna {} Nima gaplar",
+        "female":"Salom Yaxshi qiz {} Nima gaplar"
+    },
+
+    "money":"Sizda {} dollar bor",
+
+    "inson":{
+        "ism":"Sarvarjon",
+        "familiya":"Rustamov",
+        "ismFamiliya":"@:inson.ism @:inson.familiya Yaxshimisiz"
+    }
 }

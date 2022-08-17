@@ -1,3 +1,16 @@
 {
-    "uncle":"дядя"
+    "uncle":"дядя",
+    "salom":"привет {} {familiya}",
+    "gender":{
+        "male":"Privet patsan {} kak dela",
+        "female":"Privet Devushka {} kak dela"
+    },
+
+    "money":"U vas yest {} dollar",
+
+    "inson":{
+        "ism":"Sarvarjon",
+        "familiya":"Rustamov",
+        "ismFamiliya":"@:inson.ism @:inson.familiya Kak Ti?"
+    }
 }
